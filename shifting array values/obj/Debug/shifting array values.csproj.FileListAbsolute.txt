@@ -1,0 +1,8 @@
+C:\Users\User\source\repos\shifting array values\shifting array values\bin\Debug\shifting array values.exe.config
+C:\Users\User\source\repos\shifting array values\shifting array values\bin\Debug\shifting array values.exe
+C:\Users\User\source\repos\shifting array values\shifting array values\bin\Debug\shifting array values.pdb
+C:\Users\User\source\repos\shifting array values\shifting array values\obj\Debug\shifting array values.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\shifting array values\shifting array values\obj\Debug\shifting array values.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\shifting array values\shifting array values\obj\Debug\shifting array values.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\shifting array values\shifting array values\obj\Debug\shifting array values.exe
+C:\Users\User\source\repos\shifting array values\shifting array values\obj\Debug\shifting array values.pdb
