@@ -11,7 +11,7 @@ namespace shifting_array_values
         static void Main(string[] args)
         {
             int[] array = { 1, 2, 3, 4, 5, 6 };
-            Console.WriteLine("Введите число, на которое хотите циклически сместить массив влево");
+            Console.WriteLine("Введите число, на которое хотите циклически сместить массив вправо");
             int userInput = int.Parse(Console.ReadLine());
 
             for(int i = 0; i < userInput; i++)
